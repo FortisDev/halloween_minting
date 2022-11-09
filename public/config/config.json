@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
-  "SCAN_LINK": "https://polygonscan.com/token/0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
+  "CONTRACT_ADDRESS": "0xe9de6ee6dc84610167fa63b77136e8cab4c9941c",
+  "SCAN_LINK": "https://www.teloscan.io/address/0xe9de6ee6dc84610167fa63b77136e8cab4c9941c",
   "NETWORK": {
-    "NAME": "Polygon",
-    "SYMBOL": "Matic",
-    "ID": 137
+    "NAME": "Telos EVM",
+    "SYMBOL": "TLOS",
+    "ID": 40
   },
-  "NFT_NAME": "Nerdy Coder Clones",
-  "SYMBOL": "NCC",
-  "MAX_SUPPLY": 1000,
-  "WEI_COST": 75000000000000000,
-  "DISPLAY_COST": 0.075,
+  "NFT_NAME": "FrightNight",
+  "SYMBOL": "FRIGHT",
+  "MAX_SUPPLY": 200,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0.0,
   "GAS_LIMIT": 285000,
-  "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
-  "SHOW_BACKGROUND": true
+  "MARKETPLACE": "TofuNFT",
+  "MARKETPLACE_LINK": "#",
+  "SHOW_BACKGROUND": false
 }
