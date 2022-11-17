@@ -1,13 +1,13 @@
 {
-  "CONTRACT_ADDRESS": "0x6ee2f511f4367c3c4486961842c260bc198c934d",
-  "SCAN_LINK": "https://www.teloscan.io/address/0x6ee2f511f4367c3c4486961842c260bc198c934d",
+  "CONTRACT_ADDRESS": "0x7d0ac7be47be1e37e6ac9bff3b086dbee1e8d17b",
+  "SCAN_LINK": "https://www.teloscan.io/address/0x7d0ac7be47be1e37e6ac9bff3b086dbee1e8d17b",
   "NETWORK": {
     "NAME": "Telos EVM",
     "SYMBOL": "TLOS",
     "ID": 40
   },
-  "NFT_NAME": "FrightNight",
-  "SYMBOL": "FRIGHT",
+  "NFT_NAME": "1stBdayNFT",
+  "SYMBOL": "Fortis 1st Birthday NFT",
   "MAX_SUPPLY": 200,
   "WEI_COST": 0,
   "DISPLAY_COST": 0.0,
